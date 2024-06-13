@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil! 🤙
 
-Meu nome é Vinicius Braga
+Meu nome é **Vinicius Braga**
 
 - Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
